@@ -1,0 +1,289 @@
+@media screen and (max-width:931px) {
+    html {
+        font-size: 44.5%;
+    }
+}
+
+@media screen and (max-width:827px) {
+    .testimonial-section .span_1_of_3 {
+        width: 31%;
+    }
+}
+
+@media screen and (max-width:804px) {
+    html {
+        font-size: 42.5%;
+    }
+}
+
+@media screen and (max-width:769px) {
+    html {
+        font-size: 41.5%;
+    }
+    .footer-col3 {
+        font-size: 2.5rem;
+        outline-offset: 2rem;
+        line-height: 3rem;
+    }
+}
+
+@media screen and (max-width:754px) {
+    html {
+        font-size: 40%;
+    }
+}
+
+@media screen and (max-width:729px) {
+    html {
+        font-size: 39%;
+    }
+}
+
+@media screen and (max-width:710px) {
+    html {
+        font-size: 38%;
+    }
+}
+
+@media screen and (max-width:689px) {
+    html {
+        font-size: 34%;
+    }
+}
+
+@media screen and (max-width:673px) {
+    html {
+        font-size: 33%;
+    }
+}
+
+@media screen and (max-width:596px) {
+    html {
+        font-size: 30%;
+    }
+}
+
+@media screen and (max-width:598px) {
+    .footer-col3 {
+        font-size: 2.3rem;
+    }
+}
+
+@media screen and (max-width:551px) {
+    .footer-col3 {
+        font-size: 2rem;
+        outline-offset: 1rem;
+        line-height: 4rem;
+    }
+}
+
+@media screen and (max-width:526px) {
+    html {
+        font-size: 28%;
+    }
+}
+
+@media screen and (max-width:526px) {
+    .content {
+        height: 27rem;
+        padding-left: 19rem;
+    }
+    .facts-section {
+        height: 52.5rem;
+        padding-left: 20rem;
+    }
+}
+
+
+/* mobile menue */
+
+@media screen and (max-width:526px) {
+    nav {
+        display: none;
+    }
+    .mobile-menu span {
+        display: block;
+    }
+}
+
+@media screen and (max-width:480px) {
+    .footer-col img {
+        margin-left: 36%;
+        width: 27rem;
+        height: 14rem;
+    }
+    .footer-col p {
+        font-size: 3.1rem;
+        margin: 2.5rem 1rem;
+    }
+    .footer-top {
+        height: 114rem;
+    }
+    .footer-col2 h3 {
+        text-align: center;
+        font-size: 4rem;
+    }
+    .footer-col2 ul li a {
+        font-size: 3rem;
+        margin-left: 43rem;
+    }
+    .footer-col3 table td {
+        padding-left: 30rem;
+    }
+    .footer-col ul li a {
+        padding-left: 14rem;
+    }
+}
+
+@media screen and (max-width:480px) {
+    html {
+        font-size: 22%;
+    }
+}
+
+@media screen and (max-width:440px) {
+    .banner-section {
+        height: 469px;
+    }
+}
+
+@media screen and (max-width:372px) {
+    html {
+        font-size: 19%;
+    }
+}
+
+@media screen and (max-width:361px) {
+    .details i {
+        font-size: 6rem;
+    }
+    .content {
+        height: 30rem;
+        padding-left: 9rem;
+    }
+    h6 {
+        font-size: 2.2rem;
+    }
+    p {
+        font-size: 2.2rem;
+    }
+    .banner-section {
+        height: 304px;
+    }
+    .hero-section h1 {
+        text-align: center;
+    }
+    .hero-section p {
+        text-align: center;
+        line-height: 3rem;
+        margin-left: 20rem;
+    }
+    .hero-section button {
+        background: rgb(13, 219, 41);
+        margin-left: 66rem;
+    }
+    .about-section {
+        height: 72rem;
+    }
+    .facts-section {
+        height: 64.5rem;
+    }
+    .facts-col i {
+        margin-top: 4rem;
+    }
+    .service-section {
+        height: 93rem;
+    }
+    .service-section .span_1_of_3 {
+        width: 49.26%;
+    }
+    .testimonial-section .span_1_of_3 {
+        width: 49%;
+        height: 47rem;
+        margin-left: 27rem;
+    }
+    .testimonial-section img {
+        transform: translate(-38%);
+    }
+    .testimonial-section .testi-box {
+        width: 55rem;
+        height: 40rem;
+    }
+    .testimonial-section {
+        height: 173rem;
+    }
+    .footer-top {
+        height: 119rem;
+    }
+}
+
+@media screen and (max-width:297px) {
+    html {
+        font-size: 10%;
+    }
+    * {
+        overflow: hidden;
+    }
+}
+
+
+/*@media screen and (max-width:88.1rem) {
+    html {
+        font-size: 37.5%;
+    }
+}
+
+@media screen and (max-width:66.6rem) {
+    .testimonial-section .span_1_of_3 {
+        width: 26.26%;
+    }
+}
+
+@media screen and (max-width:66.6rem) {
+    .footer-col3 {
+        line-height: 2rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    html {
+        font-size: 19.5%
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .content {
+        height: 50rem;
+        padding-left: 33rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .banner-section {
+        height: 60.8rem;
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .facts-row .span_1_of_4 {
+        width: 25%
+    }
+}
+
+@media screen and (max-width:36rem) {
+    .testimonial-section .testi-box {
+        width: 31rem
+    }
+}
+
+@media screen and (max-width: 36rem) {
+    .testimonial-section .span_1_of_3 {
+        width: 32.26%;
+    }
+}
+
+@media screen and (max-width: 36rem) {
+    .footer-top {
+        height: 90rem;
+    }
+}
